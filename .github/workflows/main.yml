@@ -1,4 +1,4 @@
-name: pipline
+name: yaml integration
 
 on:
   push:
